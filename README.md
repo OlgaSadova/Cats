@@ -1,11 +1,10 @@
- * [badje](https://img.shields.io/badge/Project-Be%20Happy-brightgreen)
-
+  * 
     
    # My Picture:
-   * [My Picture](https://avatars3.githubusercontent.com/u/57731190?s=400&u=79ce5852142b8ff112013203ba0481c3fa549f18&v=4) - Olga Sadova
-
+   * <a href="https://opencollective.com/shields/sponsor/0/website" target="_blank"><img src="https://avatars3.githubusercontent.com/u/57731190?s=460&u=79ce5852142b8ff112013203ba0481c3fa549f18&v=4"></a>
    # The Project name: 
     
+   * [MemoryGame](https://github.com/OlgaSadova/MemoryGame) - Project repositorie
    ## The Project description: 
     
     
